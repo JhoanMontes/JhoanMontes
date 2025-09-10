@@ -44,9 +44,6 @@
 
 ---
 
-
----
-
 ### 📬 Let's get in touch!
 
 <p align="left">
