@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://github.com/JhoanMontes">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full+Stack+Developer;Laravel+%26+PHP+Specialist;Angular+%26+JavaScript+Expert;PostgreSQL+Enthusiast;Always+learning+and+growing&center=true&width=500&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full+Stack+Developer;Laravel+%26+PHP+Specialist;Frontend+with+Angular+%26+JS;PostgreSQL+Enthusiast;Always+learning+and+growing&center=true&width=500&height=50">
 </a>
 </p>
 
@@ -13,7 +13,7 @@
 🌟 Main languages: PHP, JavaScript, SQL.
 </pre>
 
-💻 Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+💻 Tech Stack & Tools <img src = "" width = 32px>
 <p align="left">
 <a href="https://www.php.net" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
