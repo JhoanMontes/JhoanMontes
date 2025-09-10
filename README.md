@@ -1,16 +1,16 @@
-h1 align="center"> Hi there 👋, I'm Jhoan</h1>
+<h1 align="center"> Hi there 👋, I'm Jhoan</h1>
 
 <p align="center">
 <a href="https://github.com/JhoanMontes">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Laravel+%26+PHP+Specialist;Angular+%26+JavaScript+Expert;PostgreSQL+Enthusiast;Always+building+new+things&center=true&width=450&height=50">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full+Stack+Developer;Laravel+%26+PHP+Specialist;Angular+%26+JavaScript+Expert;PostgreSQL+Enthusiast;Always+learning+and+growing&center=true&width=500&height=50">
 </a>
 </p>
 
 <pre>
-💻 Soy un Desarrollador Full Stack, construyendo aplicaciones web robustas de principio a fin.
-📝 Me encanta crear interfaces de usuario intuitivas con Angular y backends potentes y escalables con Laravel.
-🌱 Mi enfoque es escribir código limpio, eficiente y resolver problemas del mundo real.
-🌟 Lenguajes principales: PHP, JavaScript, SQL.
+💻 I'm a Junior Full Stack Developer, building robust web applications from end to end.
+📝 I'm passionate about creating intuitive user interfaces with Angular and powerful, scalable backends with Laravel.
+🌱 My focus is on writing clean, efficient code and solving real-world problems.
+🌟 Main languages: PHP, JavaScript, SQL.
 </pre>
 
 💻 Tech Stack & Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -77,12 +77,12 @@ h1 align="center"> Hi there 👋, I'm Jhoan</h1>
 </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/jhoan-montes-862882257/" target="_blank">
-<img align="center" alt="Jhoan Montes | Linkedin" width="24px" src="https://cdn.simpleicons.org/linkedin/A8A8A8" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a> &nbsp;&nbsp;
 <a href="https://github.com/JhoanMontes" target="_blank">
-<img align="center" alt="Jhoan Montes | GitHub" width="24px" src="https://cdn.simpleicons.org/github/A8A8A8" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a> &nbsp;&nbsp;
 <a href="mailto:montesjhoan17@gmail.com">
-<img align="center" alt="Jhoan Montes | Gmail" width="24px" src="https://cdn.simpleicons.org/gmail/A8A8A8" />
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a> &nbsp;&nbsp;
 </p>
