@@ -40,11 +40,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/JhoanMontes">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhoanMontes&layout=compact&langs_count=8&theme=dracula"/>
-  </a>
-</p>
 
 <div align="center">
   <h3><b>Let's get in touch!</b></h3>
