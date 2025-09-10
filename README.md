@@ -23,7 +23,7 @@
 <a href="https://angular.io" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
 </a>
-
+<br>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
 </a>
@@ -42,9 +42,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </a>
 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" alt="Figma">
-</a>
+
 </p>
 
 <p align="center">
