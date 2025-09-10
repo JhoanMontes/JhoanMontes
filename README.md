@@ -13,7 +13,7 @@
 🌟 Main languages: PHP, JavaScript, SQL.
 </pre>
 
-💻 Tech Stack & Tools <img src = "" width = 32px>
+💻 Tech Stack & Tools 
 <p align="left">
 
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
