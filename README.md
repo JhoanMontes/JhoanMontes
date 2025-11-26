@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="https://github.com/JhoanMontes">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full+Stack+Developer;Laravel+%26+PHP+Specialist;Frontend+with+Angular+%26+JS;PostgreSQL+Enthusiast;Always+learning+and+growing&center=false&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Junior+Full+Stack+Developer;Laravel+%26+PHP;Frontend+with+Angular+%26+JS;PostgreSQL+Enthusiast;Always+learning+and+growing&center=false&width=500&height=50">
   </a>
 </p>
 
