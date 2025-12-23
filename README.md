@@ -6,27 +6,22 @@
   </a>
 </p>
 
-💻 I'm a Junior Full Stack Developer, building robust web applications from end to end.
+💻 I'm a Junior Full Stack Developer, building web applications from end to end.
 <br>
-📝 I'm passionate about creating intuitive user interfaces with Angular and powerful, scalable backends with Laravel.
+📝 I'm passionate about creating intuitive user interfaces.
 <br>
 🌱 My focus is on writing clean, efficient code and solving real-world problems.
 <br>
-🌟 **Main languages:** PHP, JavaScript, SQL.
+🌟 **Main languages:** C#, JavaScript, SQL.
 
 ---
 
 ### 💻 Tech Stack & Tools
 
 <p align="left">
-  <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
-  </a>
+
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
