@@ -12,7 +12,6 @@
 <br>
 🌱 My focus is on writing clean, efficient code and solving real-world problems.
 <br>
-🌟 **Main languages:** C#, JavaScript, SQL.
 
 ---
 
